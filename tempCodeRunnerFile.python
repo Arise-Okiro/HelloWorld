@@ -1,0 +1,3 @@
+import pandas as pd
+dataset = pd.read_csv(r"C:\Users\Karthik\Desktop\PS-SFT\fitness_tracker_dataset.csv")
+print(dataset.head())
